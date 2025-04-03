@@ -17,8 +17,11 @@ const uri = "mongodb+srv://<username>:<password>@----.----.mongodb.net"
 The backend is a Node.js server that uses Express and MongoDB.
 Steps to follow:
     Clone the repository for the Backend and run the following commands:
-    1. Install NPM
-    2. Run the server
+
+    1. Install NPM : ```npm i```
+
+    2. Run the server ```npm start```
+
     3. Open http://localhost:5050 in your browser
 
 ## Step 3: Mount Frontend
